@@ -1,2 +1,2 @@
 # Learnings
-MultiClass-Word-Language-Classification
+1. Multi Class Word Classification using character level LSTM (workshop)
